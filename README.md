@@ -35,9 +35,9 @@ Predict stock prices on the test data and compare them with actual prices using 
 
 ## PROGRAM
 
-### Name:
+### Name:ARCHANA T
 
-### Register Number:
+### Register Number:212223240013
 
 ```python
 import numpy as np
